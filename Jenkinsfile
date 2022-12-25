@@ -67,7 +67,7 @@ pipeline
 		{
 						steps
 						{
-						echo 'deploy app to kubernetes'
+						echo 'deploy app to kubernete'
 					    }
 		}
 	}
